@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mina Medhat</h1>
-<h3 align="center">Building Scalable Web Solutions | Passionate Back-End Developer | C#, ASP.NET Core Specialist</h3>
+<h3 align="center">C#, ASP.NET Core Specialist | Passionate Back-End Developer | Building Scalable Web Solutions </h3>
 
 - 📫 How to reach me **minamedhatn@gmail.com**
 
